@@ -64,7 +64,7 @@ function loadtoc(a) {
     sortlabel();
     tocLoaded = true;
     displayToc2();
-    document.write('</br><a href="http://duarupa.blogspot.com/" style="font-size: 10px; text-decoration:none; color: #616469;">Sitemap</a>')
+    document.write('')
 }
 
 function filterPosts(a) {
